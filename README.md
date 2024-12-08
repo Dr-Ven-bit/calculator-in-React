@@ -1,2 +1,1 @@
-# calculator-in-React
- 
+enjoy the project and give us feedback
